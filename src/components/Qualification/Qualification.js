@@ -9,7 +9,7 @@ const Qualification = () => {
   };
 
   return (
-    <section className="qualification section">
+    <section className="qualification section" id="qualification">
       <h2 className="section__title">Qualification</h2>
       <span className="section__subtitle">My personal journey</span>
       <div className="qualification__container container">
@@ -47,11 +47,11 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web design</h3>
-                <span className="qualification__subtitle">Rit -Institute</span>
+                <h3 className="qualification__title">Primary Education</h3>
+                <span className="qualification__subtitle">Mathura Highschool, Ichalkaranji</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  2023 - Present
+                  92%
                 </div>
               </div>
 
@@ -67,21 +67,21 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Art Director</h3>
-                <span className="qualification__subtitle">Rit -Institute</span>
+                <h3 className="qualification__title">Secondary Education</h3>
+                <span className="qualification__subtitle">The New Highschool & Junior College, Ichalkaranji</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  2023 - Present
+                  82%
                 </div>
               </div>
             </div>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Development</h3>
-                <span className="qualification__subtitle">Rit -Institute</span>
+                <h3 className="qualification__title">Bachelor of Technology (BTech)</h3>
+                <span className="qualification__subtitle">Rajarambapu Institute of Technology, Islampur</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  2023 - Present
+                  First Year - 8.05 CGPA
                 </div>
               </div>
 
@@ -97,11 +97,11 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Ux expert</h3>
-                <span className="qualification__subtitle">Rit -Institute</span>
+                <h3 className="qualification__title">BTech in Computer Engineering</h3>
+                <span className="qualification__subtitle">Rit - Institute</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  2023 - 2024
+                  Second Year - 8.12 CGPA
                 </div>
               </div>
             </div>
@@ -115,11 +115,11 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web design</h3>
-                <span className="qualification__subtitle">Rit -Institute</span>
+                <h3 className="qualification__title">Web Developer</h3>
+                <span className="qualification__subtitle">2021 to present</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  2023 - Present
+                  created websites for personal & project Purpose
                 </div>
               </div>
 
@@ -135,21 +135,21 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Art Director</h3>
-                <span className="qualification__subtitle">Rit -Institute</span>
+                <h3 className="qualification__title">UI / UX Design</h3>
+                <span className="qualification__subtitle">2021 to present</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  2023 - Present
+                  Designed UI & Color Scheme for websites
                 </div>
               </div>
             </div>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Development</h3>
-                <span className="qualification__subtitle">Rit -Institute</span>
+                <h3 className="qualification__title">Programming</h3>
+                <span className="qualification__subtitle">2021 to present</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  2023 - Present
+                  Solved 500+ dsa problems on various platforms
                 </div>
               </div>
 
@@ -165,11 +165,11 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Ux expert</h3>
-                <span className="qualification__subtitle">Rit -Institute</span>
+                <h3 className="qualification__title">Teaching</h3>
+                <span className="qualification__subtitle">2022 to present</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  2023 - 2027
+                  I taught dsa & development in college club
                 </div>
               </div>
             </div>
