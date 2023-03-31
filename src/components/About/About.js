@@ -1,7 +1,7 @@
 import React from 'react'
 import "./About.css"
 import AboutImg from "../../assets/man.png"
-import CV from "../../assets/MyCV.pdf"
+// import CV from "../../assets/MyCV.pdf"
 import Info from "./Info.js"
 
 const About = () => {
@@ -18,8 +18,18 @@ const About = () => {
                 <Info/>
 
                 <p className="about__description">As a developer who understands the importance of design, I've worked on projects that require a keen eye for detail, whether it's in crafting intuitive interfaces or creating memorable logos.</p>
-            <a download="" href={CV} className="button button--flex">
+            {/* <a download="" href={CV} className="button button--flex">
                 Download CV
+                <svg
+                className="button__icon"
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+              > */}
+              <a href="https://drive.google.com/file/d/1lNulVJ1qLdBMpnzC5Vm5fbnZUp8X2QBS/view?usp=share_link" className="button button--flex">
+                Get Resume
                 <svg
                 className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"

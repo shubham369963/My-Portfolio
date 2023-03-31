@@ -17,7 +17,7 @@ const Part2 = () => {
           type="text"
           name="name"
           id="name"
-          placeholder="Full Name"
+          placeholder="Enter Full Name"
           className="formbold-form-input"
         />
       </div>
@@ -44,7 +44,7 @@ const Part2 = () => {
           rows="6"
           name="message"
           id="message"
-          placeholder="Type your message"
+          placeholder="Enter your message"
           className="formbold-form-input"
         ></textarea>
         <ValidationError 
