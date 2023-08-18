@@ -28,7 +28,7 @@ const About = () => {
                 viewBox="0 0 24 24"
                 fill="none"
               > */}
-              <a href="https://drive.google.com/file/d/1lNulVJ1qLdBMpnzC5Vm5fbnZUp8X2QBS/view?usp=share_link" className="button button--flex">
+              <a href="https://drive.google.com/file/d/1zmgXBbbSypyt_vyCpDPMVPfjK2yOb9Qm/view?usp=sharing" className="button button--flex">
                 Get Resume
                 <svg
                 className="button__icon"

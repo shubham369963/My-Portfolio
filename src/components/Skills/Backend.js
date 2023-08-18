@@ -16,7 +16,7 @@ const Backend = () => {
                         C, C++
                         </h3>
                         <span className="skills__level">
-                        Intermediate
+                        Advanced
                         </span>
                     </div>
                 </div>
@@ -79,10 +79,10 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills__name">
-                        C#
+                        Postman
                         </h3>
                         <span className="skills__level">
-                        Intermediate
+                        Advanced
                         </span>
                     </div>
                 </div>

@@ -105,6 +105,21 @@ const Qualification = () => {
                 </div>
               </div>
             </div>
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">BTech in Computer Engineering</h3>
+                <span className="qualification__subtitle">Rit - Institute</span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i>
+                  Third Year - 8.35 CGPA
+                </div>
+              </div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
           </div>
           <div
             className={

@@ -55,8 +55,8 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Software Developer</h3>
-      <p className="home__description">Hi, I'm a software developer with experience in a variety of programming languages and a track record of delivering high-quality software products.</p>
+      <h3 className="home__subtitle">MERN Stack Developer</h3>
+      <p className="home__description">Hi, I'm a mern stack developer with experience in a variety of programming languages and a track record of delivering high-quality software products.</p>
       <a href="#contact" className="button button--flex">
         Say Hello
         <svg

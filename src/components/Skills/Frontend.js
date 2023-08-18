@@ -13,20 +13,7 @@ const Frontend = () => {
 
                     <div>
                         <h3 className="skills__name">
-                        HTML
-                        </h3>
-                        <span className="skills__level">
-                        Advanced
-                        </span>
-                    </div>
-                </div>
-
-                <div className="skills__data">
-                    <i className="bx bx-badge-check"></i>
-
-                    <div>
-                        <h3 className="skills__name">
-                        CSS
+                        React Js
                         </h3>
                         <span className="skills__level">
                         Advanced
@@ -42,6 +29,19 @@ const Frontend = () => {
                         JavaScript
                         </h3>
                         <span className="skills__level">
+                        Advanced
+                        </span>
+                    </div>
+                </div>
+
+                <div className="skills__data">
+                    <i className="bx bx-badge-check"></i>
+
+                    <div>
+                        <h3 className="skills__name">
+                        BootStrap
+                        </h3>
+                        <span className="skills__level">
                         Intermediate
 
                         </span>
@@ -54,7 +54,7 @@ const Frontend = () => {
 
                     <div>
                         <h3 className="skills__name">
-                        Bootstrap
+                        Tailwind CSS
                         </h3>
                         <span className="skills__level">
                         Advanced
@@ -80,7 +80,7 @@ const Frontend = () => {
 
                     <div>
                         <h3 className="skills__name">
-                        React js
+                        SASS
                         </h3>
                         <span className="skills__level">
                         Intermediate
